@@ -1,0 +1,9 @@
+C:\Work\Visual Studio Applications\GraphLCD\GraphLCD\bin\Debug\GraphLCD.exe
+C:\Work\Visual Studio Applications\GraphLCD\GraphLCD\bin\Debug\GraphLCD.pdb
+C:\Work\Visual Studio Applications\GraphLCD\GraphLCD\obj\x86\Debug\GraphLCD.Form1.resources
+C:\Work\Visual Studio Applications\GraphLCD\GraphLCD\obj\x86\Debug\GraphLCD.Properties.Resources.resources
+C:\Work\Visual Studio Applications\GraphLCD\GraphLCD\obj\x86\Debug\GraphLCD.csproj.GenerateResource.Cache
+C:\Work\Visual Studio Applications\GraphLCD\GraphLCD\obj\x86\Debug\GraphLCD.exe
+C:\Work\Visual Studio Applications\GraphLCD\GraphLCD\obj\x86\Debug\GraphLCD.pdb
+C:\Work\Visual Studio Applications\GraphLCD\GraphLCD\obj\x86\Debug\GraphLCD.Form2.resources
+C:\Work\Visual Studio Applications\GraphLCD\GraphLCD\obj\x86\Debug\GraphLCD.csprojResolveAssemblyReference.cache
